@@ -1,4 +1,4 @@
-=== Ginger iFrameless ===
+=== iFrame-less Reloaded ===
 Contributors: toddhalfpenny
 Donate link: http://gingerbreaddesign.co.uk/wordpress/plugins/plugins.php
 Tags: iframe
